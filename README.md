@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Bhokwe/Bhokwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there, I'm Latita Mvunelo 👋
 
 I am a multidisciplinary developer and technical artist bridging the gap between highly optimized code, compelling 3D aesthetics, and data-driven decision-making. Whether I'm engineering procedural generation systems, modeling hard-surface 3D assets, or building cross-platform apps, I leverage AI workflows to solve complex technical challenges.
