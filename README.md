@@ -42,4 +42,4 @@ I am a multidisciplinary developer and technical artist bridging the gap between
 
 ## 📫 Let's Connect!
 - **Portfolio:** [latitamvunelo.site](https://latitamvunelo.site)
-- **Location:** Midrand, South Africa
+- **Location:** South Africa
